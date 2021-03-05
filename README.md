@@ -69,7 +69,7 @@ I live, breathe, and eat code and I want to change the world.
 > Last Updated 03/05/2021
 
 See my timeline of my professional experiences, past projects, and current projects!
-![Timeline]()
+![Timeline](https://apro123.github.io/Apro123/portfolio.html)
 
 ## Projects
 > Last Updated 03/05/2021
