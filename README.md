@@ -6,7 +6,6 @@ Hi, my name is Armaan K. (aka Apro). I am many things, but at least one of them 
 I live, breathe, and eat code and I want to change the world.
 
 ## Reach Me
-
 - 📫 How to reach me: ...
   - [LinkedIn](https://www.linkedin.com/in/armaan-kapoor-a7ab24143/)
 
@@ -28,17 +27,52 @@ I live, breathe, and eat code and I want to change the world.
     - Various Personal/Club Projects
 
 ## Skills
+> Last Updated 03/05/2021
 - 🌱 My skills...
+  - Various Programming Languages (7 Years)
+    - Git
+    - Bash
+    - ZSH
+    - Angular
+    - JavaScript
+    - Python 2
+    - Python 3
+    - Java
+    - C++
+    - nesC
+    - PHP
+    - MySQL
+    - C#
+    - R
+    - Markdown
+    - React
+  - Frameworks
+    - Django
+    - Express
+    - Flask
+    - Ionic
+    - Xamarin
+    - Java Servlets
+  - Cloud
+    - AWS (2 Years)
+    - Azure (1 Year)
+    - CI/CD (1 Year)
+    - Linux Server Administration
+  - Soft
+    - Professional Email Communication
+    - Public Speaker
 
 ### Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Apro123&layout=compact&langs_count=10)](https://github.com/Apro123)
 
 ## Timeline
+> Last Updated 03/05/2021
 
 See my timeline of my professional experiences, past projects, and current projects!
 ![Timeline]()
 
 ## Projects
+> Last Updated 03/05/2021
 
 - 🔭 I’m currently working on...
   - Resource Application
