@@ -27,7 +27,7 @@ I live, breathe, and eat code and I want to change the world.
     - Various Personal/Club Projects
 
 ## Skills
-> Last Updated 03/05/2021
+> Last Updated 03/11/2021
 - 🌱 My skills...
   - Various Programming Languages (7 Years)
     - Git
@@ -61,6 +61,7 @@ I live, breathe, and eat code and I want to change the world.
   - Soft
     - Professional Email Communication
     - Public Speaker
+    - Microsoft Office Products (Word, Excel, Powerpoint)
 
 ### Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Apro123&layout=compact&langs_count=10)](https://github.com/Apro123)
