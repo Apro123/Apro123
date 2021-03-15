@@ -27,7 +27,7 @@ I live, breathe, and eat code and I want to change the world.
     - Various Personal/Club Projects
 
 ## Skills
-> Last Updated 03/11/2021
+> Last Updated 03/15/2021
 - 🌱 My skills...
   - Various Programming Languages (7 Years)
     - Git
@@ -58,6 +58,7 @@ I live, breathe, and eat code and I want to change the world.
     - Azure (1 Year)
     - CI/CD (1 Year)
     - Linux Server Administration
+    - Cloudflare Products (Serverless Workers)
   - Soft
     - Professional Email Communication
     - Public Speaker
@@ -72,7 +73,7 @@ I live, breathe, and eat code and I want to change the world.
 See my [timeline](https://apro123.github.io/Apro123/portfolio.html) of my professional experiences, past projects, and current projects!
 
 ## Projects
-> Last Updated 03/05/2021
+> Last Updated 03/15/2021
 
 - 🔭 I’m currently working on...
   - Resource Application
@@ -111,6 +112,9 @@ See my [timeline](https://apro123.github.io/Apro123/portfolio.html) of my profes
   - Hybrid App Development with Ionic Angular
     - Learned Angular with Ionic and published my very first app on the google play store only after ONE WEEK. Link: https://play.google.com/store/apps/details?id=com.apro.calculator.
     - Published a Service Application for small businesses to the google play store. Link: https://play.google.com/store/apps/details?id=com.apro.serviceator
+  - 1st place Hackathon 
+    - "Diaritaur" App to help with Mental Health
+    - See [devpost](https://devpost.com/software/diarituar)
   - Computer Science Research with Professor Angelo Kirilov
     - Created a [dynamic zoo application](https://github.com/kerrande/Zoo-Project) using python flask microservices. Aided in the creation of a new philosophy website alongside a team of professors.
 
