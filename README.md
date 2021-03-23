@@ -26,6 +26,11 @@ I live, breathe, and eat code and I want to change the world.
   - Software Engineer/Architect/Manager
     - Various Personal/Club Projects
 
+## Certs/Awards
+- Frances M. Benton Scholarship
+- National Cyber League
+  - Preason: Rank: 71/5773
+
 ## Skills
 > Last Updated 03/20/2021
 - 🌱 My skills...
