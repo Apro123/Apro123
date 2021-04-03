@@ -49,6 +49,7 @@ I live, breathe, and eat code and I want to change the world.
     - MySQL
     - C#
     - R
+    - Matlab
     - Markdown
     - React
   - Frameworks
@@ -64,6 +65,20 @@ I live, breathe, and eat code and I want to change the world.
     - CI/CD (1 Year)
     - Linux Server Administration
     - Cloudflare Products (Serverless Framework)
+  - Cyber
+    - Web Exploitation
+    - Enumeration
+    - Basic Reverse Engineering
+    - Basic Cryptography 
+      - john
+      - hashcat
+    - Basic Forensics & Stenography
+      - stegsolve
+      - steghide
+      - outguess
+      - diit
+    - Network Analysis
+      - Wireshark
   - Soft
     - Professional Email Communication
     - Public Speaker
