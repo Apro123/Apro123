@@ -121,6 +121,11 @@ See my [timeline](https://apro123.github.io/Apro123/portfolio.html) of my profes
     - See our [Youtube Playlist](https://www.youtube.com/playlist?list=PLcuud_Z9euz7FqdK7ZisgLvvIZXP1kjD7)
   - RSAC Blog Article
     - I got recognized by the world renowned organization RSAC and I was asked to write a [blog](https://www.rsaconference.com/industry-topics/blog/cyber-learning-in-todays-world) piece of the state of cyber learning from my perspective as a cyber security enthusiast. In this blog piece I take apart the argument on the efficacy of cyber security learning in schools and how schools should implement some sort of cyber learning initiative especially in today's remote world!
+  - LinkND- Graduate Course at UCM
+    -	Excelled at similar undergraduate course and was offered to take higher level graduate course.
+    -	Built a web application dashboard that monitored link quality between various telob motes.
+    -	Designed to be scalable and capture log packets into a wirelessly mounted filer. This was done using Linux server administration skills.
+    -	Prototyped, designed, and developed a client and server-side application using python scripts, Linux commands, python microservice framework Flask with data streams.
   - LORA Network
     - Established a LORA network of sensors as well as gateways across the Central Valley
   - Summer Virtual Academy
