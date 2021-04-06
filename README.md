@@ -12,6 +12,10 @@ I live, breathe, and eat code and I want to change the world.
 
 ![Jokes Card](https://readme-jokes.vercel.app/api?bgColor=gray)
 
+## CV/Resume
+Last Updated 04/06/2021
+- See [link](https://github.com/Apro123/Apro123/blob/master/Armaan%20Kapoor%20Profile.pdf)
+
 ## Positions (Professional/Personal Projects)
 > Last Updated 03/05/2021
 
@@ -32,7 +36,7 @@ I live, breathe, and eat code and I want to change the world.
   - Preason: Rank: 71/5773
 
 ## Skills
-> Last Updated 03/20/2021
+> Last Updated 04/05/2021
 - 🌱 My skills...
   - Various Programming Languages (7 Years)
     - Git
