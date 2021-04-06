@@ -1,5 +1,5 @@
 ### What's UP! 👋
-Hi, my name is Armaan K. (aka Apro). I am many things, but at least one of them includes being awesome.
+Hi, my name is Armaan K. (aka Apro). I am a leader, cyber security engineer, and a full stack developer
 - 😄 Pronouns: He/His/Him
 
 ## Mission statement
