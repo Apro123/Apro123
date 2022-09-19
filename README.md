@@ -13,8 +13,7 @@ I live, breathe, and eat code and I want to change the world.
 ![Jokes Card](https://readme-jokes.vercel.app/api?bgColor=gray)
 
 ## CV/Resume
-Last Updated 04/06/2021
-- See [link](https://github.com/Apro123/Apro123/blob/master/Armaan%20Kapoor%20Profile.pdf)
+- See [LinkedIn](https://www.linkedin.com/in/armaan-kapoor-a7ab24143/)
 
 ## Positions (Professional/Personal Projects)
 > Last Updated 03/05/2021
